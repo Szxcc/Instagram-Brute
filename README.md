@@ -19,7 +19,7 @@ _____________________________________
 1- How to install and set up:
 
 
-git clone https://github.com/Szxcc/-Black-Ghost-Instagram-Brute-Forcer.git
+git clone https://github.com/Szxcc/-Black-Ghost-Instagram-Brute-Forcer.git](https://github.com/Szxcc/Instagram-Brute.git
 ---------------------------------------
 
 pip install -r requirements.txt
@@ -56,5 +56,6 @@ Show results: If the correct password is found, you will be shown a success mess
 This script will create a private list password for you. Enter the target's name and date of birth to create your private list password.
 
 
-python pas.py 
+``python pas.py``
 ---------------------------------------
+‍‍‍‍‍‍‍‍‍ییی
