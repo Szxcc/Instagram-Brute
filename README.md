@@ -19,7 +19,7 @@ ________________________________________________________________________________
 1- How to install and set up:
 
 
-``git clone https://github.com/Szxcc/-Black-Ghost-Instagram-Brute-Forcer.git](https://github.com/Szxcc/Instagram-Brute.git``
+``git clone https://github.com/Szxcc/Instagram-Brute.git``
 ---------------------------------------------------------------------------------------------------------------------------
 
 ``pip install -r requirements.txt``
