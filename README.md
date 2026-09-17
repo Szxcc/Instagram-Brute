@@ -19,14 +19,14 @@ _____________________________________
 1- How to install and set up:
 
 
-git clone https://github.com/Szxcc/-Black-Ghost-Instagram-Brute-Forcer.git](https://github.com/Szxcc/Instagram-Brute.git
----------------------------------------
+``git clone https://github.com/Szxcc/-Black-Ghost-Instagram-Brute-Forcer.git](https://github.com/Szxcc/Instagram-Brute.git``
+``---------------------------------------``
 
-pip install -r requirements.txt
----------------------------------------
+``pip install -r requirements.txt``
+`---------------------------------------`
 
-python brute_insta.py
----------------------------------------
+``python brute_insta.py``
+`---------------------------------------`
 
 
 Input: When running the tool, you will be asked to enter the following information:
@@ -58,4 +58,3 @@ This script will create a private list password for you. Enter the target's name
 
 ``python pas.py``
 ---------------------------------------
-‍‍‍‍‍‍‍‍‍ییی
